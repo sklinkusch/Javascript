@@ -1,2 +1,122 @@
 # Javascript
-overview over my JavaScript projects
+
+This is an overview over my repositories using JavaScript (not React.js).
+
+## Projects published on GithubPages
+
+- architecture-eventlisteners
+  - a JavaScript to do list with event handlers
+  - [Link to repository](https://github.com/sklinkusch/architecture-eventlisteners)
+  - [Link to GithubPages](https://sklinkusch.github.io/architecture-eventlisteners/)
+- bvg-test
+  - Test suite of the BVG API
+  - [Link to repository](https://github.com/sklinkusch/bvg-test)
+  - [Link to GithubPages](https://sklinkusch.github.io/bvg-test/)
+- country-codes
+  - print country information based on the calling code
+  - [Link to repository](https://github.com/sklinkusch/country-codes)
+  - [Link to GithubPages](https://sklinkusch.github.io/country-codes/)
+- fortune-js
+  - fortune teller game in javascript
+  - [Link to repository](https://github.com/sklinkusch/fortune-js)
+  - [Link to GithubPages](https://sklinkusch.github.io/fortune-js/)
+- Github-search
+  - an exercise using the Github API
+  - [Link to repository](https://github.com/sklinkusch/Github-search)
+  - [Link to GithubPages](https://sklinkusch.github.io/Github-search/)
+- JS-animal-age
+  - animal age calculator using javascript
+  - [Link to repository](https://github.com/sklinkusch/JS-animal-age)
+  - [Link to GithubPages](https://sklinkusch.github.io/JS-animal-age/)
+- JS-dropdown-remove-items
+  - Write a JavaScript program to remove items from a dropdown list
+  - [Link to repository](https://github.com/sklinkusch/JS-dropdown-remove-items)
+  - [Link to GithubPages](https://sklinkusch.github.io/JS-dropdown-remove-items/)
+- JS-objects-functions-calculated-grade
+  - create a function that extends objects with the calculated grade based on their points
+  - [Link to repository](https://github.com/sklinkusch/JS-objects-functions-calculated-grade)
+  - [Link to GithubPages](https://sklinkusch.github.io/JS-objects-functions-calculated-grade/)
+- JS-weather
+  - weather app for different cities using the Dark Sky API as the resource
+  - [Link to repository](https://github.com/sklinkusch/JS-weather)
+  - [Link to GithubPages](https://sklinkusch.github.io/JS-weather/)
+- JSON-more-heroes
+  - parsing through a remote JSON Object and use it in JS
+  - [Link to repository](https://github.com/sklinkusch/JSON-more-heroes)
+  - [Link to GithubPages](https://sklinkusch.github.io/JSON-more-heroes/)
+- Superheroes-JSON
+  - first exercise on JSON (superheroes)
+  - [Link to repository](https://github.com/sklinkusch/Superheroes-JSON)
+  - [Link to GithubPages](https://sklinkusch.github.io/Superheroes-JSON/)
+  
+## Projects not published on GithubPages
+
+- functions
+  - JavaScript functions
+  - [Link to repository](https://github.com/sklinkusch/functions)
+- JS-101
+  - Introduction to Variables in Javascript
+  - [Link to repository](https://github.com/sklinkusch/JS-101)
+- JS-102
+  - switch expression in javascript
+  - [Link to repository](https://github.com/sklinkusch/JS-102)
+- JS-array-loops-table
+  - get an HTML table from JS arrays in a loop
+  - [Link to repository](https://github.com/sklinkusch/JS-array-loops-table)
+- JS-array-methods
+  - array methods exercise using JavaScript
+  - [Link to repository](https://github.com/sklinkusch/JS-array-methods)
+- JS-array-methods-loops
+  - exercise about arrays, methods, and loops in JavaScript
+  - [Link to repository](https://github.com/sklinkusch/JS-array-methods-loops)
+- JS-array-objects-1
+  - first exercise with an array of objects
+  - [Link to repository](https://github.com/sklinkusch/JS-array-objects-1)
+- JS-array-objects-2
+  - second exercise on JavaScript arrays and objects
+  - [Link to repository](https://github.com/sklinkusch/JS-array-objects-2)
+- JS-classes
+  - classes and inheritance in JavaScript
+  - [Link to repository](https://github.com/sklinkusch/JS-classes)
+- JS-classes-2
+  - second exercise on JavaScript classes
+  - [Link to repository](https://github.com/sklinkusch/JS-classes-2)
+- JS-classes-getter-setter-1
+  - first exercise about getters and setters in JavaScript classes
+  - [Link to repository](https://github.com/sklinkusch/JS-classes-getter-setter-1)
+- JS-filter-map-reduce
+  - first exercise with filter, map, and reduce in JavaScript
+  - [Link to repository](https://github.com/sklinkusch/JS-filter-map-reduce-1)
+- JS-functions-arrays
+  - functions and arrays exercise in JavaScript
+  - [Link to repository](https://github.com/sklinkusch/JS-functions-arrays)
+- JS-Livecoding
+  - live-coding examples in javascript
+  - [Link to repository](https://github.com/sklinkusch/JS-Livecoding)
+- JS-localstorage
+  - LocalStorage in JavaScript
+  - [Link to repository](https://github.com/sklinkusch/JS-localstorage)
+- JS-logic-exercises
+  - logical exercises in JavaScript
+  - [Link to repository](https://github.com/sklinkusch/JS-logic-exercises)
+- JS-loops-conditions
+  - loops and conditions exercise in Javascript
+  - [Link to repository](https://github.com/sklinkusch/JS-loops-conditions)
+- JS-loops-functions
+  - loops and functions in JavaScript
+  - [Link to repository](https://github.com/sklinkusch/JS-loops-functions)
+- JS-loops-tree
+  - exercise: generate a tree of asterisks in a loop using JavaScript
+  - [Link to repository](https://github.com/sklinkusch/JS-loops-tree)
+- JS-objects-1
+  - first exercise on JavaScript objects
+  - [Link to repository](https://github.com/sklinkusch/JS-objects-1)
+- js-sum-up-numbers
+  - Function that sums up all numbers of an array
+  - [Link to repository](https://github.com/sklinkusch/js-sum-up-numbers)
+- PUBSUB
+  - publish and subscribe concept
+  - [Link to repository](https://github.com/sklinkusch/PUBSUB)
+- TDD-start
+  - test development
+  - [Link to repository](https://github.com/sklinkusch/TDD-Start)
